@@ -1,6 +1,6 @@
 package Test;
 
-//update: 2
+//update: 3
 
 public class ClassTest {
     public static void main(String[] args) {
